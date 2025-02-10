@@ -122,7 +122,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "achiladilshanyapa@gmail.com",
-    YOUR_FONE: "+9474 00 99 338",
+    YOUR_FONE: "+9470 2 244 344",
     description: "Excited to connect and create! 🚀 Whether it's a new project, collaboration, or just a tech chat—I'm all ears. Let's make something incredible together!",
     // Add AD King email
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
