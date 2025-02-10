@@ -121,7 +121,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "achiladilshanyapa@gmail.com",
+    YOUR_EMAIL: "achiladilshanyapa@gmail.com ",
     YOUR_FONE: "+9470 2 244 344",
     description: "Excited to connect and create! 🚀 Whether it's a new project, collaboration, or just a tech chat—I'm all ears. Let's make something incredible together!",
     // Add AD King email
